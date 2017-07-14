@@ -1,8 +1,0 @@
-C:\Playground\NetCore\hangle\bin\Debug\netcoreapp1.1\hangle.deps.json
-C:\Playground\NetCore\hangle\bin\Debug\netcoreapp1.1\hangle.runtimeconfig.json
-C:\Playground\NetCore\hangle\bin\Debug\netcoreapp1.1\hangle.runtimeconfig.dev.json
-C:\Playground\NetCore\hangle\bin\Debug\netcoreapp1.1\hangle.dll
-C:\Playground\NetCore\hangle\bin\Debug\netcoreapp1.1\hangle.pdb
-C:\Playground\NetCore\hangle\obj\Debug\netcoreapp1.1\hangle.AssemblyInfo.cs
-C:\Playground\NetCore\hangle\obj\Debug\netcoreapp1.1\hangle.dll
-C:\Playground\NetCore\hangle\obj\Debug\netcoreapp1.1\hangle.pdb
